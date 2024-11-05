@@ -3,11 +3,9 @@ body {
   background-color: antiquewhite;
 }
 .perfume--section {
-  display: flex;
-  justify-content: center;
   max-width: 58em;
   padding-top: 5rem;
-  align-items: center;
+  margin-inline: auto;
 }
 .perfume--subsection {
   max-width: 55em;
